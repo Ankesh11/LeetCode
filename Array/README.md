@@ -1,6 +1,4 @@
-# LeetCode
-
-## Array
+# Array
 
 * Container With Most Water | [**Problem**](https://leetcode.com/problems/container-with-most-water) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/container_with_most_water.cpp)
 
