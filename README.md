@@ -19,3 +19,11 @@
 * Unique Paths | [**Problem**](https://leetcode.com/problems/unique-paths) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/unique_paths.cpp)
 
 * Set Matrix Zeroes | [**Problem**](https://leetcode.com/problems/set-matrix-zeroes) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/set_matrix_zeroes.cpp)
+
+* Sort Colors | [**Problem**](https://leetcode.com/problems/sort-colors) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/sort_colors.cpp)
+
+* Subsets | [**Problem**](https://leetcode.com/problems/subsets) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/subsets.cpp)
+
+* Word Search | [**Problem**](https://leetcode.com/problems/word-search) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/word_search.cpp)
+
+* Construct Binary Tree from Preorder and Inorder Traversal | [**Problem**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/construct_binary_tree_from_preorder_and_inorder_traversal.cpp)
