@@ -27,3 +27,19 @@
 * Word Search | [**Problem**](https://leetcode.com/problems/word-search) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/word_search.cpp)
 
 * Construct Binary Tree from Preorder and Inorder Traversal | [**Problem**](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/construct_binary_tree_from_preorder_and_inorder_traversal.cpp)
+
+* Longest Consecutive Sequence | [**Problem**](https://leetcode.com/problems/longest-consecutive-sequence) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/longest_consecutive_sequence.cpp)
+
+* Maximum Product Subarray | [**Problem**](https://leetcode.com/problems/maximum-product-subarray) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/maximum_product_subarray.cpp)
+
+* Find Peak Element | [**Problem**](https://leetcode.com/problems/find-peak-element) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/find_peak_element.cpp)
+
+* Rotate Array | [**Problem**](https://leetcode.com/problems/rotate-array) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/rotate_array.cpp)
+
+* Product of Array Except Self | [**Problem**](https://leetcode.com/problems/product-of-array-except-self) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/product_of_array_except_self.cpp)
+
+* Find the Duplicate Number | [**Problem**](https://leetcode.com/problems/find-the-duplicate-number) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/find_the_duplicate_number.cpp)
+
+* Game of Life | [**Problem**](https://leetcode.com/problems/game-of-life) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/game_of_life.cpp)
+
+* Insert Delete GetRandomO(1) | [**Problem**](https://leetcode.com/problems/insert-delete-getrandom-o1) | [**Code**](https://github.com/Ankesh11/LeetCode/blob/main/Array/insert_delete_getrandom_O(1).cpp)
